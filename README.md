@@ -1,4 +1,4 @@
-# arch-nvim-config
+# My Nvim Config
 
 A very simple Neovim configuration.
 
